@@ -1,4 +1,4 @@
-# CADify
+# CADify : Where ideas take shape!
 
 An AI-powered Prompt-to-CAD application that transforms natural language descriptions into parametric 3D CAD models.
 
